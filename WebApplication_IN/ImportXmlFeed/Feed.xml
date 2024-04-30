@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+	<Product>
+		<Name>Jelly Tutu EDIT_1 aa</Name>
+		<Ean>555</Ean>
+		<Description>Description Jelly Tutu</Description>
+		<Quantity>100</Quantity>
+		<Price>229</Price>
+		<Currency>CZK</Currency>
+		<Category>Food</Category>
+	</Product>
+	<Product>
+		<Name>Chocolate Tutu EDIT_2</Name>
+		<Ean>444</Ean>
+		<Description>Description Chocolate Tutu</Description>
+		<Quantity>25</Quantity>
+		<Price>98</Price>
+		<Currency>CZK</Currency>
+		<Category>Food</Category>
+	</Product>
+</Catalog>
